@@ -4,7 +4,6 @@ import './App.css';
 import Home from './components/Pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Services from './components/Pages/Services';
-import Products from './components/Pages/Projects';
 import SignUp from './components/Pages/SignUp';
 
 function App() {
